@@ -1,1 +1,1 @@
-# codility
+# Codility Lessons

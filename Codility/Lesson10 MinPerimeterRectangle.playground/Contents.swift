@@ -3,8 +3,6 @@
 
 ## Level: Painless
 
-## Key Point:
-
 ### The result will be:
 * Task Score		100%
 * Correctness		100%
@@ -14,11 +12,23 @@
 import Foundation
 
 // Given Vriables
+var givenArea = 30
 
 public func solution(_ N : Int) -> Int {
 	
-	return 0
+	var index = 1
+	var result = Int.max
+	
+	while index * index <= N {
+		
+		if N % index == 0 {
+			result = min(result, 2 * (N / index + index))
+		}
+		index += 1
+	}
+	
+	return result
 }
 
 // Test
-print()
+print(solution(givenArea))

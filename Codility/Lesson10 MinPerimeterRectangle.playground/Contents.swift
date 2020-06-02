@@ -1,6 +1,8 @@
 /*:
 # [Codility Lesson 10 Prime and composite numbers: MinPerimeterRectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
 
+## Level: Painless
+
 ## Key Point:
 
 ### The result will be:

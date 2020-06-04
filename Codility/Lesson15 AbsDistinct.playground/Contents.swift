@@ -3,9 +3,6 @@
 
 ## Level: Painless
 
-## Key Point:
-
-
 ### The result will be:
 * Task Score		100%
 * Correctness		100%
@@ -15,12 +12,19 @@
 import Foundation
 
 // Given Vriables
+var givenNumbers = [-5, -3, -1, 0, 3, 6]
 
 
 public func solution(_ A : inout [Int]) -> Int {
 	
-	return 0
+	var distincts = Set<Int>()
+	
+	for element in A {
+		distincts.insert(abs(element))
+	}
+	
+	return distincts.count
 }
 
 // Test
-print()
+print(solution(&givenNumbers))

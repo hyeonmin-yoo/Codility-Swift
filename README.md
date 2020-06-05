@@ -47,3 +47,17 @@ Lesson 10: Prime and composite numbers
 
 Lesson 15: Caterpillar method
 * [AbsDistinct](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson15%20AbsDistinct.playground/Contents.swift)
+* [CountDistinctSlices]()
+* [CountTriangles]()
+
+Lesson 16: Greedy algorithms
+* [MaxNonoverlappingSegments]()
+* [TieRopes]()
+
+Lesson 90: Tasks from Indeed Prime 2015 challenge
+* [LongestPassword]()
+
+Lesson 99: Future training
+* [StrSymmetryPoint]()
+* [TreeHeight]()
+ 

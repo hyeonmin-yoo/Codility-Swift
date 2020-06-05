@@ -1,7 +1,11 @@
-/*
-Codility Lesson1 Iteration: Binary Gap
-Link: https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
+/*:
+Codility Lesson1 Iteration: [Binary Gap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
+> 원문은 위 링크를 참조해 주십시오.
 
+
+*/
+
+/*
 Task Score	100%
 Correctness	100%
 Total score	100%

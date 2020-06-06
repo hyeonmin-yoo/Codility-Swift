@@ -47,7 +47,7 @@ Lesson 10: Prime and composite numbers
 
 Lesson 15: Caterpillar method
 * [AbsDistinct](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson15%20AbsDistinct.playground/Contents.swift)
-* CountDistinctSlices
+* [CountDistinctSlices](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson15%20CountDistinctSlices.playground/Contents.swift)
 * CountTriangles
 
 Lesson 16: Greedy algorithms

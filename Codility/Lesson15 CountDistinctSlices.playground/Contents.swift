@@ -3,8 +3,8 @@
 
 ## Level: Painless
 
-## Key point:
-* [Two-pointer technique](https://leetcode.com/articles/two-pointer-technique/)
+## Key Points:
+* Two-Pointer Algorithm
 
 ### The result will be:
 * Task Score		100%
@@ -21,8 +21,27 @@ var givenInteger = 6
 
 public func solution(_ M : Int, _ A : inout [Int]) -> Int {
 	
-	return 0
+	var record = Array(repeating: false, count: M + 1)
+	var start = 0, end = 0
+	var sliceCounter = 0
+	
+	while start < A.count && end < A.count {
+		if record[A[start]] == false {
+			sliceCounter += start - end + 1
+			
+			if sliceCounter > 1_000_000_000 {
+				return 1_000_000_000
+			}
+			record[A[start]] = true
+			start += 1
+		} else {
+			record[A[end]] = false
+			end += 1
+		}
+	}
+	
+	return sliceCounter
 }
 
 // Test
-print()
+print(solution(givenInteger, &givenNumbers))

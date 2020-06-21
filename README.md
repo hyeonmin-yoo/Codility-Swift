@@ -51,7 +51,7 @@ Lesson 15: Caterpillar method
 * [CountTriangles](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson15%20CountTriangles.playground/Contents.swift)
 
 Lesson 16: Greedy algorithms
-* MaxNonoverlappingSegments
+* [MaxNonoverlappingSegments](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson16%20MaxNonoverlappingSegments.playground/Contents.swift)
 * TieRopes
 
 Lesson 90: Tasks from Indeed Prime 2015 challenge

@@ -17,11 +17,25 @@ TieRopes](https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_
 */
 
 import Foundation
+var givenNumber = 4
+var givenArray = [1, 2, 3, 4, 1, 1, 3]
 
 // Given Vriables
 public func solution(_ K : Int, _ A : inout [Int]) -> Int {
-	return 0
+	
+	var countRopes = 0
+	var greaterThanK = 0
+	
+	for value in A {
+		greaterThanK += value
+		if greaterThanK >= K {
+			countRopes += 1
+			greaterThanK = 0
+		}
+	}
+	
+	return countRopes
 }
 
 // Test
-print()
+print(solution(givenNumber, &givenArray))

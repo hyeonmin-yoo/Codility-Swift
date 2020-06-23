@@ -55,7 +55,7 @@ Lesson 16: Greedy algorithms
 * [TieRopes](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson16%20TieRopes.playground/Contents.swift)
 
 Lesson 90: Tasks from Indeed Prime 2015 challenge
-* LongestPassword
+* [LongestPassword](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson90%20LongestPassword.playground/Contents.swift)
 
 Lesson 99: Future training
 * StrSymmetryPoint

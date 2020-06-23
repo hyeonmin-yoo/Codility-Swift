@@ -52,7 +52,7 @@ Lesson 15: Caterpillar method
 
 Lesson 16: Greedy algorithms
 * [MaxNonoverlappingSegments](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson16%20MaxNonoverlappingSegments.playground/Contents.swift)
-* TieRopes
+* [TieRopes](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson16%20TieRopes.playground/Contents.swift)
 
 Lesson 90: Tasks from Indeed Prime 2015 challenge
 * LongestPassword

@@ -10,7 +10,7 @@
 ## [Codility](https://app.codility.com/programmers/) Swift solutions
 
 Lesson 1: Iterations
-* [BinaryGap](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson1%20BinaryGap.playground/Contents.swift)
+* [BinaryGap](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson1%20BinaryGap.playground/Contents.swift) - KOR
         
 Lesson 2: Arrays
 * [CyclicRotation](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson2%20CyclicRotation.playground/Contents.swift)

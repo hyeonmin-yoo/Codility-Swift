@@ -1,6 +1,11 @@
-# Algorithm, 알고리즘
-
+# Algorithm
 웹에서 접할수 있는 여러 사이트의 알고리즘 연습문제 변역 및 풀이 입니다. 모두 완벽에 가까운 코드입니다. 제 능력으로 모두 생각해낸 솔루션은 아닙니다. Googling을 통해 수집한 자료가 대다수이며, 번역해나가며 참고 링크와 각각의 원리를 기록/기록해 갈 계획입니다. 수학을 잘 하려면 원리를 이해하고 기존에 잘 알려진 공식을 이용해 반복해서 풀어봐야 잘 할수 있듯이 알고리즘을 더 잘하기 위한 과정으로 생각합니다.
+
+## Usage
+각 solution은 Xcode의 Playground로 작성되었습니다. Clone하여 Xcode에서 코드를 각 단계별로 print 해 보면 이해하기 쉽습니다.
+
+## Translation in Korean - In progress
+문제에 대한 이해력, 숨겨진 힌트를 찾아내는 것, 적합한 Algorithm이나 공식을 생각해 내는 것도 Algorithm 문제 해결의 일부라고 생각합니다만 어디까지나 Codility lessons는 연습 문제이기에 최대한 이해하기 쉽도록 한글로 번역중입니다.
 
 ## [Codility](https://app.codility.com/programmers/) Swift solutions
 

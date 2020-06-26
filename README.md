@@ -13,7 +13,7 @@ Lesson 1: Iterations
 * [BinaryGap](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson1%20BinaryGap.playground/Contents.swift) - KOR
         
 Lesson 2: Arrays
-* [CyclicRotation](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson2%20CyclicRotation.playground/Contents.swift)
+* [CyclicRotation](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson2%20CyclicRotation.playground/Contents.swift) - KOR
 
 Lesson 3: Time Complexity
 * [TapeEquilibrium](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson3%20TapeEquilibrium.playground/Contents.swift)

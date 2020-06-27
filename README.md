@@ -14,7 +14,7 @@ Lesson 1: Iterations
         
 Lesson 2: Arrays
 * [CyclicRotation](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson2%20CyclicRotation.playground/Contents.swift) 🇰
-* [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) 🇰
+* [OddOccurrencesInArray](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson2%20OddOccurrencesInArray.playground/Contents.swift) 🇰
 
 Lesson 3: Time Complexity
 * [TapeEquilibrium](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson3%20TapeEquilibrium.playground/Contents.swift)

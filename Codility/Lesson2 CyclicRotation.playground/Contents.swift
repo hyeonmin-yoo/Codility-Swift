@@ -65,13 +65,15 @@ N의 정수로 구성된 배열 A가 주어집니다. 배열의 회전(rotation 
 
 import Foundation
 
-var input = [5, 1, 4, 3, 7, 9, 2]
-let inputNumber = 4
+var givenArray = [3, 8, 9, 7, 6]
+let givenNumber = 3
 
-for _ in 0..<inputNumber {
-	if let popedNumber = input.popLast() {
-		input.insert(popedNumber, at: 0)
+public func solution(_ A : inout [Int], _ K : Int) -> [Int] {
+	for (index, value) in A.enumerated() {
+		let newIndex = (index + K) % A.count
+		A[newIndex] = value
 	}
+	return A
 }
 
-print(input)
+print(solution(&givenArray, givenNumber))

@@ -4,10 +4,14 @@
 ## Usage
 각 solution은 Xcode의 Playground로 작성되었습니다. Clone하여 Xcode에서 코드를 각 단계별로 print 해 보면 이해하기 쉽습니다.
 
-## Translation in Korean - In progress
-문제에 대한 이해력, 숨겨진 힌트를 찾아내는 것, 적합한 Algorithm이나 공식을 생각해 내는 것도 Algorithm 문제 해결의 일부라고 생각합니다만 Codility lessons는 어디까지나 연습 문제이기에 최대한 이해하기 쉽도록 한글로 번역중입니다. 🇰 마크가 붙어있는 lesson은 한글 번역이 완료된 문제입니다.
+## Algorithm 기초 Swift
+Xcode의 Playground로 작성되었습니다. Clone하여 Xcode에서 코드를 각 단계별로 print 해 보면 이해하기 쉽습니다.
+* [거품 정렬(Bubble sort)](https://github.com/hyeonmin-yoo/Algorithm/tree/master/Algorithm/BubbleSort.playground)
 
 ## [Codility](https://app.codility.com/programmers/) Swift solutions
+
+## Translation in Korean - In progress
+문제에 대한 이해력, 숨겨진 힌트를 찾아내는 것, 적합한 Algorithm이나 공식을 생각해 내는 것도 Algorithm 문제 해결의 일부라고 생각합니다만 Codility lessons는 어디까지나 연습 문제이기에 최대한 이해하기 쉽도록 한글로 번역중입니다. 🇰 마크가 붙어있는 lesson은 한글 번역이 완료된 문제입니다.
 
 Lesson 1: Iterations
 * [BinaryGap](https://github.com/hyeonmin-yoo/Algorithm/blob/master/Codility/Lesson1%20BinaryGap.playground/Contents.swift) 🇰
